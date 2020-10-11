@@ -1,0 +1,19 @@
+Added 101.255.255.255/5 A at the depth 5,total nodes 6
+Added 110.255.255.255/5 A at the depth 5,total nodes 7
+Added 210.255.255.255/7 B at the depth 7,total nodes 14
+Added 209.255.255.255/7 B at the depth 7,total nodes 15
+Found 101.255.255.255 A at the depth 5
+Removed 101.255.255.255/5 A at the depth 7,total nodes 14
+Added 255.255.255/10 C at the depth 10,total nodes 22
+Added 255.0.0.0/2 D at the depth 10,total nodes 22
+Added 210.255.255.0/11 E at the depth 11,total nodes 26
+Found 255.0.0.0 D at the depth 2
+Found 255.255.255 C at the depth 10
+Removed 255.0.0.0/2 D at the depth 11,total nodes 26
+Found 210.255.255.0 E at the depth 11
+Removed 210.255.255.255/6 B at the depth 11,total nodes 26
+Added 101.255.255.255/1 F at the depth 11,total nodes 26
+Removed 210.255.255.0/11 E at the depth 10,total nodes 22
+Removed 222.222.222.222/12 U at the depth 10,total nodes 22
+
+

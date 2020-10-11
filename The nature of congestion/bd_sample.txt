@@ -1,0 +1,13 @@
+עבור תור בגודל 4 הפלט יהיה:
+
+total arrived packets 16, total dropped packets 11, total transmitted packets 5, total transmitted value 27.
+עבור תור בגודל 8 הפלט יהיה:
+
+
+
+total arrived packets 16, total dropped packets 9, total transmitted packets 7, total transmitted value 39.
+
+עבור תור בגודל 2 הפלט יהיה:
+total arrived packets 16, total dropped packets 12, total transmitted packets 4, total transmitted value 21.
+
+
